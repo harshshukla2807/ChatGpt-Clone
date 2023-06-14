@@ -25,8 +25,8 @@ function ChatRow({id}: props) {
        router.replace("/");
     }
     
-    console.log("propsid ",id)
-    console.log("pathname",pathname)
+    // console.log("propsid ",id)
+    // console.log("pathname",pathname)
     
     
     useEffect(()=>{
